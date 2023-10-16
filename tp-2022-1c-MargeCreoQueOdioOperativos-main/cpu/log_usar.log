@@ -1,0 +1,128 @@
+[TRACE] 10:00:17:605 Test/(5256:5257): EL PROCESO 1 Escribio:1 en la DIR FISICA: 0
+[TRACE] 10:00:20:228 Test/(5256:5257): EL PROCESO 2 Escribio:1 en la DIR FISICA: 256
+[TRACE] 10:00:20:434 Test/(5256:5257): EL PROCESO 1 Escribio:2 en la DIR FISICA: 4
+[TRACE] 10:00:20:636 Test/(5256:5257): EL PROCESO 1 Escribio:3 en la DIR FISICA: 8
+[TRACE] 10:00:21:663 Test/(5256:5257): EL PROCESO 1 Escribio:4 en la DIR FISICA: 12
+[TRACE] 10:00:23:673 Test/(5256:5257): EL PROCESO 3 Escribio:1 en la DIR FISICA: 512
+[TRACE] 10:00:23:674 Test/(5256:5257): EL PROCESO 3 Escribio:2 en la DIR FISICA: 516
+[TRACE] 10:00:24:681 Test/(5256:5257): EL PROCESO 3 Escribio:11 en la DIR FISICA: 768
+[TRACE] 10:00:24:683 Test/(5256:5257): EL PROCESO 3 Escribio:12 en la DIR FISICA: 772
+[TRACE] 10:00:26:689 Test/(5256:5257): EL PROCESO 3 Escribio:21 en la DIR FISICA: 1024
+[TRACE] 10:00:28:197 Test/(5256:5257): EL PROCESO 2 Escribio:11 en la DIR FISICA: 1280
+[TRACE] 10:00:29:704 Test/(5256:5257): EL PROCESO 2 Escribio:21 en la DIR FISICA: 1536
+[TRACE] 10:00:31:211 Test/(5256:5257): EL PROCESO 2 Escribio:31 en la DIR FISICA: 1792
+[TRACE] 10:00:33:717 Test/(5256:5257): EL PROCESO 2 Escribio:41 en la DIR FISICA: 2048
+[TRACE] 10:00:35:131 Test/(5256:5257): EL PROCESO 1 Escribio:5 en la DIR FISICA: 16
+[TRACE] 10:00:40:340 Test/(5256:5257): EL PROCESO 1 Escribio:11 en la DIR FISICA: 2304
+[TRACE] 10:00:42:452 Test/(5256:5257): El valor leido de memoria es: 41 del proceso:2 en la dir fisica 2560
+[TRACE] 10:00:43:957 Test/(5256:5257): El valor leido de memoria es: 31 del proceso:2 en la dir fisica 2816
+[TRACE] 10:00:45:471 Test/(5256:5257): El valor leido de memoria es: 21 del proceso:2 en la dir fisica 3072
+[TRACE] 10:00:46:978 Test/(5256:5257): El valor leido de memoria es: 11 del proceso:2 en la dir fisica 3328
+[TRACE] 10:00:48:485 Test/(5256:5257): El valor leido de memoria es: 1 del proceso:2 en la dir fisica 3584
+[TRACE] 10:00:50:998 Test/(5256:5257): EL PROCESO 1 Escribio:12 en la DIR FISICA: 2308
+[TRACE] 10:00:56:053 Test/(5256:5257): EL PROCESO 1 Escribio:13 en la DIR FISICA: 2312
+[TRACE] 10:00:56:255 Test/(5256:5257): EL PROCESO 1 Escribio:14 en la DIR FISICA: 2316
+[TRACE] 10:00:56:457 Test/(5256:5257): EL PROCESO 1 Escribio:15 en la DIR FISICA: 2320
+[TRACE] 10:00:57:662 Test/(5256:5257): EL PROCESO 1 Escribio:21 en la DIR FISICA: 3840
+[TRACE] 10:00:57:864 Test/(5256:5257): EL PROCESO 1 Escribio:22 en la DIR FISICA: 3844
+[TRACE] 10:00:58:071 Test/(5256:5257): EL PROCESO 1 Escribio:23 en la DIR FISICA: 3848
+[TRACE] 10:00:58:273 Test/(5256:5257): EL PROCESO 1 Escribio:24 en la DIR FISICA: 3852
+[TRACE] 10:00:58:475 Test/(5256:5257): EL PROCESO 1 Escribio:25 en la DIR FISICA: 3856
+[TRACE] 10:01:03:491 Test/(5256:5257): EL PROCESO 5 Escribio:1 en la DIR FISICA: 4096
+[TRACE] 10:01:06:512 Test/(5256:5257): El valor leido de memoria es: 1 del proceso:1 en la dir fisica 4352
+[TRACE] 10:01:06:713 Test/(5256:5257): El valor leido de memoria es: 1751672834 del proceso:1 en la dir fisica 4356
+[TRACE] 10:01:06:916 Test/(5256:5257): El valor leido de memoria es: 28311912 del proceso:1 en la dir fisica 4360
+[TRACE] 10:01:07:118 Test/(5256:5257): El valor leido de memoria es: 0 del proceso:1 en la dir fisica 4364
+[TRACE] 10:01:07:319 Test/(5256:5257): El valor leido de memoria es: 0 del proceso:1 en la dir fisica 4368
+[TRACE] 10:01:08:523 Test/(5256:5257): El valor leido de memoria es: 11 del proceso:1 en la dir fisica 4608
+[TRACE] 10:01:08:725 Test/(5256:5257): El valor leido de memoria es: 12 del proceso:1 en la dir fisica 4612
+[TRACE] 10:01:08:928 Test/(5256:5257): El valor leido de memoria es: 13 del proceso:1 en la dir fisica 4616
+[TRACE] 10:01:09:130 Test/(5256:5257): El valor leido de memoria es: 14 del proceso:1 en la dir fisica 4620
+[TRACE] 10:01:09:332 Test/(5256:5257): El valor leido de memoria es: 15 del proceso:1 en la dir fisica 4624
+[TRACE] 10:01:10:537 Test/(5256:5257): El valor leido de memoria es: 21 del proceso:1 en la dir fisica 4864
+[TRACE] 10:01:10:740 Test/(5256:5257): El valor leido de memoria es: 22 del proceso:1 en la dir fisica 4868
+[TRACE] 10:01:10:942 Test/(5256:5257): El valor leido de memoria es: 23 del proceso:1 en la dir fisica 4872
+[TRACE] 10:01:11:144 Test/(5256:5257): El valor leido de memoria es: 24 del proceso:1 en la dir fisica 4876
+[TRACE] 10:01:11:346 Test/(5256:5257): El valor leido de memoria es: 25 del proceso:1 en la dir fisica 4880
+[TRACE] 10:01:13:360 Test/(5256:5257): EL PROCESO 5 Escribio:2 en la DIR FISICA: 4100
+[TRACE] 10:01:14:372 Test/(5256:5257): EL PROCESO 3 Escribio:22 en la DIR FISICA: 1028
+[TRACE] 10:01:15:375 Test/(5256:5257): EL PROCESO 3 Escribio:31 en la DIR FISICA: 5120
+[TRACE] 10:01:16:393 Test/(5256:5257): EL PROCESO 5 Escribio:11 en la DIR FISICA: 5376
+[TRACE] 10:01:17:406 Test/(5256:5257): EL PROCESO 3 Escribio:32 en la DIR FISICA: 5124
+[TRACE] 10:01:19:410 Test/(5256:5257): EL PROCESO 3 Escribio:41 en la DIR FISICA: 5632
+[TRACE] 10:01:19:416 Test/(5256:5257): EL PROCESO 5 Escribio:12 en la DIR FISICA: 5380
+[TRACE] 10:01:20:427 Test/(5256:5257): EL PROCESO 3 Escribio:42 en la DIR FISICA: 5636
+[TRACE] 10:01:22:432 Test/(5256:5257): EL PROCESO 3 Escribio:51 en la DIR FISICA: 5888
+[TRACE] 10:01:22:438 Test/(5256:5257): El valor leido de memoria es: 1 del proceso:5 en la dir fisica 4096
+[TRACE] 10:01:23:447 Test/(5256:5257): EL PROCESO 3 Escribio:52 en la DIR FISICA: 5892
+[TRACE] 10:01:23:553 Test/(5256:5257): El valor leido de memoria es: 11 del proceso:5 en la dir fisica 5376
+[TRACE] 10:01:24:668 Test/(5256:5257): El valor leido de memoria es: 2 del proceso:5 en la dir fisica 4100
+[TRACE] 10:01:25:781 Test/(5256:5257): El valor leido de memoria es: 12 del proceso:5 en la dir fisica 5380
+[TRACE] 10:01:27:898 Test/(5256:5257): EL PROCESO 5 Escribio:21 en la DIR FISICA: 6144
+[TRACE] 10:01:29:026 Test/(5256:5257): EL PROCESO 5 Escribio:22 en la DIR FISICA: 6148
+[TRACE] 10:01:31:145 Test/(5256:5257): EL PROCESO 5 Escribio:31 en la DIR FISICA: 6400
+[TRACE] 10:01:32:256 Test/(5256:5257): EL PROCESO 5 Escribio:32 en la DIR FISICA: 6404
+[TRACE] 10:01:33:368 Test/(5256:5257): El valor leido de memoria es: 21 del proceso:5 en la dir fisica 6144
+[TRACE] 10:01:34:482 Test/(5256:5257): El valor leido de memoria es: 22 del proceso:5 en la dir fisica 6148
+[TRACE] 10:01:35:595 Test/(5256:5257): El valor leido de memoria es: 31 del proceso:5 en la dir fisica 6400
+[TRACE] 10:01:38:611 Test/(5256:5257): El valor leido de memoria es: 1 del proceso:3 en la dir fisica 6656
+[TRACE] 10:01:38:616 Test/(5256:5257): El valor leido de memoria es: 32 del proceso:5 en la dir fisica 6404
+[TRACE] 10:01:41:631 Test/(5256:5257): El valor leido de memoria es: 11 del proceso:3 en la dir fisica 6912
+[TRACE] 10:01:44:643 Test/(5256:5257): El valor leido de memoria es: 21 del proceso:3 en la dir fisica 7168
+[TRACE] 10:01:46:647 Test/(5256:5257): El valor leido de memoria es: 31 del proceso:3 en la dir fisica 7424
+[TRACE] 10:01:48:653 Test/(5256:5257): El valor leido de memoria es: 41 del proceso:3 en la dir fisica 7680
+[TRACE] 10:01:50:657 Test/(5256:5257): El valor leido de memoria es: 51 del proceso:3 en la dir fisica 7936
+[TRACE] 10:01:53:670 Test/(5256:5257): El valor leido de memoria es: 2 del proceso:3 en la dir fisica 8196
+[TRACE] 10:01:55:677 Test/(5256:5257): El valor leido de memoria es: 12 del proceso:3 en la dir fisica 8452
+[TRACE] 10:01:57:686 Test/(5256:5257): El valor leido de memoria es: 22 del proceso:3 en la dir fisica 8708
+[TRACE] 10:01:59:692 Test/(5256:5257): El valor leido de memoria es: 32 del proceso:3 en la dir fisica 8964
+[TRACE] 10:02:01:698 Test/(5256:5257): El valor leido de memoria es: 42 del proceso:3 en la dir fisica 9220
+[TRACE] 10:02:03:707 Test/(5256:5257): El valor leido de memoria es: 52 del proceso:3 en la dir fisica 9476
+[TRACE] 10:02:06:734 Test/(5256:5257): El valor leido de memoria es: 1 del proceso:3 en la dir fisica 9728
+[TRACE] 10:02:08:739 Test/(5256:5257): El valor leido de memoria es: 11 del proceso:3 en la dir fisica 9984
+[TRACE] 10:02:10:742 Test/(5256:5257): El valor leido de memoria es: 21 del proceso:3 en la dir fisica 256
+[TRACE] 10:02:12:748 Test/(5256:5257): El valor leido de memoria es: 31 del proceso:3 en la dir fisica 1280
+[TRACE] 10:02:14:761 Test/(5256:5257): El valor leido de memoria es: 41 del proceso:3 en la dir fisica 1536
+[TRACE] 10:02:16:767 Test/(5256:5257): El valor leido de memoria es: 51 del proceso:3 en la dir fisica 1792
+[TRACE] 10:02:19:783 Test/(5256:5257): El valor leido de memoria es: 2 del proceso:3 en la dir fisica 2052
+[TRACE] 10:02:21:788 Test/(5256:5257): El valor leido de memoria es: 12 del proceso:3 en la dir fisica 2564
+[TRACE] 10:02:23:793 Test/(5256:5257): El valor leido de memoria es: 22 del proceso:3 en la dir fisica 3588
+[TRACE] 10:02:25:797 Test/(5256:5257): El valor leido de memoria es: 32 del proceso:3 en la dir fisica 3332
+[TRACE] 10:02:27:804 Test/(5256:5257): El valor leido de memoria es: 42 del proceso:3 en la dir fisica 3076
+[TRACE] 10:02:29:812 Test/(5256:5257): El valor leido de memoria es: 52 del proceso:3 en la dir fisica 2820
+[TRACE] 10:02:32:823 Test/(5256:5257): El valor leido de memoria es: 1 del proceso:3 en la dir fisica 0
+[TRACE] 10:02:34:831 Test/(5256:5257): El valor leido de memoria es: 11 del proceso:3 en la dir fisica 2304
+[TRACE] 10:02:36:836 Test/(5256:5257): El valor leido de memoria es: 21 del proceso:3 en la dir fisica 3840
+[TRACE] 10:02:38:842 Test/(5256:5257): El valor leido de memoria es: 31 del proceso:3 en la dir fisica 4352
+[TRACE] 10:02:40:846 Test/(5256:5257): El valor leido de memoria es: 41 del proceso:3 en la dir fisica 4608
+[TRACE] 10:02:42:851 Test/(5256:5257): El valor leido de memoria es: 51 del proceso:3 en la dir fisica 4864
+[TRACE] 10:02:45:862 Test/(5256:5257): El valor leido de memoria es: 2 del proceso:3 en la dir fisica 516
+[TRACE] 10:02:47:867 Test/(5256:5257): El valor leido de memoria es: 12 del proceso:3 en la dir fisica 772
+[TRACE] 10:02:49:872 Test/(5256:5257): El valor leido de memoria es: 22 del proceso:3 en la dir fisica 1028
+[TRACE] 10:02:51:877 Test/(5256:5257): El valor leido de memoria es: 32 del proceso:3 en la dir fisica 5124
+[TRACE] 10:02:53:882 Test/(5256:5257): El valor leido de memoria es: 42 del proceso:3 en la dir fisica 4100
+[TRACE] 10:02:55:887 Test/(5256:5257): El valor leido de memoria es: 52 del proceso:3 en la dir fisica 5380
+[TRACE] 10:02:59:902 Test/(5256:5257): El valor leido de memoria es: 1 del proceso:3 en la dir fisica 6144
+[TRACE] 10:03:01:908 Test/(5256:5257): El valor leido de memoria es: 11 del proceso:3 en la dir fisica 6400
+[TRACE] 10:03:03:914 Test/(5256:5257): El valor leido de memoria es: 21 del proceso:3 en la dir fisica 5632
+[TRACE] 10:03:05:919 Test/(5256:5257): El valor leido de memoria es: 31 del proceso:3 en la dir fisica 5888
+[TRACE] 10:03:07:924 Test/(5256:5257): El valor leido de memoria es: 41 del proceso:3 en la dir fisica 6656
+[TRACE] 10:03:09:930 Test/(5256:5257): El valor leido de memoria es: 51 del proceso:3 en la dir fisica 6912
+[TRACE] 10:03:12:941 Test/(5256:5257): El valor leido de memoria es: 2 del proceso:3 en la dir fisica 7172
+[TRACE] 10:03:14:946 Test/(5256:5257): El valor leido de memoria es: 12 del proceso:3 en la dir fisica 7428
+[TRACE] 10:03:16:951 Test/(5256:5257): El valor leido de memoria es: 22 del proceso:3 en la dir fisica 7684
+[TRACE] 10:03:18:956 Test/(5256:5257): El valor leido de memoria es: 32 del proceso:3 en la dir fisica 7940
+[TRACE] 10:03:20:961 Test/(5256:5257): El valor leido de memoria es: 42 del proceso:3 en la dir fisica 8196
+[TRACE] 10:03:22:966 Test/(5256:5257): El valor leido de memoria es: 52 del proceso:3 en la dir fisica 8452
+[TRACE] 10:03:25:975 Test/(5256:5257): El valor leido de memoria es: 1 del proceso:3 en la dir fisica 8704
+[TRACE] 10:03:27:979 Test/(5256:5257): El valor leido de memoria es: 11 del proceso:3 en la dir fisica 8960
+[TRACE] 10:03:29:984 Test/(5256:5257): El valor leido de memoria es: 21 del proceso:3 en la dir fisica 9216
+[TRACE] 10:03:31:990 Test/(5256:5257): El valor leido de memoria es: 31 del proceso:3 en la dir fisica 9472
+[TRACE] 10:03:33:995 Test/(5256:5257): El valor leido de memoria es: 41 del proceso:3 en la dir fisica 9728
+[TRACE] 10:03:36:000 Test/(5256:5257): El valor leido de memoria es: 51 del proceso:3 en la dir fisica 9984
+[TRACE] 10:03:39:010 Test/(5256:5257): El valor leido de memoria es: 2 del proceso:3 en la dir fisica 260
+[TRACE] 10:03:41:015 Test/(5256:5257): El valor leido de memoria es: 12 del proceso:3 en la dir fisica 1284
+[TRACE] 10:03:43:020 Test/(5256:5257): El valor leido de memoria es: 22 del proceso:3 en la dir fisica 1540
+[TRACE] 10:03:45:025 Test/(5256:5257): El valor leido de memoria es: 32 del proceso:3 en la dir fisica 1796
+[TRACE] 10:03:47:030 Test/(5256:5257): El valor leido de memoria es: 42 del proceso:3 en la dir fisica 2052
+[TRACE] 10:03:49:035 Test/(5256:5257): El valor leido de memoria es: 52 del proceso:3 en la dir fisica 2564

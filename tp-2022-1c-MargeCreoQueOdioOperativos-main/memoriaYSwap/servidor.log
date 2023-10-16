@@ -1,0 +1,136 @@
+[DEBUG] 10:00:04:812 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de HANDSHAKE:CPU---
+
+[WARNING] 10:00:17:605 Log server/(5251:5252): pagina: 0
+[WARNING] 10:00:20:228 Log server/(5251:5252): pagina: 0
+[WARNING] 10:00:20:434 Log server/(5251:5252): pagina: 0
+[WARNING] 10:00:20:635 Log server/(5251:5252): pagina: 0
+[WARNING] 10:00:21:662 Log server/(5251:5252): pagina: 0
+[WARNING] 10:00:23:673 Log server/(5251:5252): pagina: 0
+[WARNING] 10:00:23:674 Log server/(5251:5252): pagina: 0
+[WARNING] 10:00:24:681 Log server/(5251:5252): pagina: 1
+[WARNING] 10:00:24:682 Log server/(5251:5252): pagina: 1
+[WARNING] 10:00:26:689 Log server/(5251:5252): pagina: 2
+[WARNING] 10:00:28:197 Log server/(5251:5252): pagina: 1
+[WARNING] 10:00:29:704 Log server/(5251:5252): pagina: 2
+[WARNING] 10:00:31:210 Log server/(5251:5252): pagina: 3
+[WARNING] 10:00:33:717 Log server/(5251:5252): pagina: 4
+[WARNING] 10:00:35:131 Log server/(5251:5252): pagina: 0
+[DEBUG] 10:00:40:339 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[WARNING] 10:00:40:340 Log server/(5251:5252): pagina: 1
+[DEBUG] 10:00:40:342 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:00:50:994 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:00:50:997 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[WARNING] 10:00:50:998 Log server/(5251:5252): pagina: 1
+[DEBUG] 10:00:55:437 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de FINALIZAR PROCESO:Kernel ---
+
+[WARNING] 10:00:56:053 Log server/(5251:5252): pagina: 1
+[WARNING] 10:00:56:255 Log server/(5251:5252): pagina: 1
+[WARNING] 10:00:56:457 Log server/(5251:5252): pagina: 1
+[WARNING] 10:00:57:662 Log server/(5251:5252): pagina: 2
+[WARNING] 10:00:57:864 Log server/(5251:5252): pagina: 2
+[WARNING] 10:00:58:071 Log server/(5251:5252): pagina: 2
+[WARNING] 10:00:58:273 Log server/(5251:5252): pagina: 2
+[WARNING] 10:00:58:475 Log server/(5251:5252): pagina: 2
+[DEBUG] 10:01:03:490 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[WARNING] 10:01:03:490 Log server/(5251:5252): pagina: 0
+[DEBUG] 10:01:13:354 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de FINALIZAR PROCESO:Kernel ---
+
+[WARNING] 10:01:13:360 Log server/(5251:5252): pagina: 0
+[WARNING] 10:01:14:372 Log server/(5251:5252): pagina: 2
+[WARNING] 10:01:15:375 Log server/(5251:5252): pagina: 3
+[WARNING] 10:01:16:393 Log server/(5251:5252): pagina: 1
+[WARNING] 10:01:17:405 Log server/(5251:5252): pagina: 3
+[WARNING] 10:01:19:410 Log server/(5251:5252): pagina: 4
+[WARNING] 10:01:19:416 Log server/(5251:5252): pagina: 1
+[WARNING] 10:01:20:427 Log server/(5251:5252): pagina: 4
+[WARNING] 10:01:22:432 Log server/(5251:5252): pagina: 5
+[WARNING] 10:01:23:447 Log server/(5251:5252): pagina: 5
+[WARNING] 10:01:27:898 Log server/(5251:5252): pagina: 2
+[WARNING] 10:01:29:026 Log server/(5251:5252): pagina: 2
+[WARNING] 10:01:31:145 Log server/(5251:5252): pagina: 3
+[WARNING] 10:01:32:256 Log server/(5251:5252): pagina: 3
+[DEBUG] 10:01:42:636 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de FINALIZAR PROCESO:Kernel ---
+
+[DEBUG] 10:03:51:042 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de FINALIZAR PROCESO:Kernel ---
+
+[DEBUG] 10:03:52:246 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:52:550 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:52:852 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:53:154 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:53:462 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:53:765 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:54:068 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:54:372 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:54:675 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:54:978 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:55:281 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:55:584 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:55:888 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:56:191 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:56:495 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:56:798 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:57:101 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:57:404 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:57:707 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:58:010 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:58:314 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de SUSPENSION PROCESO:Kernel ---
+
+[DEBUG] 10:03:59:328 Log server/(5251:5252): 
+--- Se atendio el pedido correctamente de FINALIZAR PROCESO:Kernel ---
+

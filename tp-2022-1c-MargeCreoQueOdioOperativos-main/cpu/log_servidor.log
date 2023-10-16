@@ -1,0 +1,350 @@
+[INFO] 10:00:04:813 LOG-SERVIDOR-CPU/(5256:5257): Servidor CPU DISPATCH arriba!
+[INFO] 10:00:14:591 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:14:593 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 1 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:17:604 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:17:605 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:17:606 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:19:225 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:20:230 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:20:230 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 1 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:21:662 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:21:663 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:21:665 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:26:688 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:26:690 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:26:691 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:34:723 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:34:724 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:34:926 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:34:927 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 1 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:40:342 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:40:441 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:40:443 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:48:989 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:48:990 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:49:090 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:49:091 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:49:092 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:49:193 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:49:194 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:49:293 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:49:295 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:49:296 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:49:498 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:49:499 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:49:598 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:49:600 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:49:601 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:49:903 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:49:904 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:50:107 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:50:107 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 1 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:50:994 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:51:000 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:51:000 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:51:095 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:51:102 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:51:102 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:51:505 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:51:506 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:51:605 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:51:607 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:51:608 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:52:111 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:52:113 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:52:212 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:52:213 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:52:215 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:52:314 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:52:315 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:52:317 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:52:719 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:52:720 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:52:820 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:52:821 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:52:822 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:53:325 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:53:326 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:53:425 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:53:427 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:53:429 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:53:528 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:53:529 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:53:530 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 2 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:55:436 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:55:438 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:55:641 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:55:642 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 1 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:55:742 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:55:743 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:55:744 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:55:946 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:55:947 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 1 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:00:56:046 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:00:56:048 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:56:049 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 1 llego de Kernel para ser ejecutado 
+
+[INFO] 10:00:59:483 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:00:59:484 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:04:483 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:04:497 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:04:499 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 1 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:04:599 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:04:600 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:04:601 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 1 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:13:354 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:13:356 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:14:365 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:14:367 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:14:466 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:15:377 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:15:378 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:17:400 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:17:402 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:17:501 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:19:412 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:19:413 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:20:422 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:20:424 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:20:522 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:22:434 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:22:434 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:23:442 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:23:444 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:23:543 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:23:549 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:23:551 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:24:562 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:24:562 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:24:661 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:24:663 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:24:665 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:25:674 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:25:676 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:25:774 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:25:777 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:25:779 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:26:789 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:26:791 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:26:890 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:26:893 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:26:895 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:28:905 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:28:907 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:29:005 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:29:008 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:29:011 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:30:031 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:30:034 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:30:132 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:30:134 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:30:138 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:32:150 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:32:153 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:32:250 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:32:253 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:32:254 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:33:261 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:33:263 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:33:362 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:33:364 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:33:366 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:34:374 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:34:376 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:34:474 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:34:477 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:34:479 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:35:488 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:35:490 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:35:589 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:35:590 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:35:592 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:36:603 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:36:605 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:36:704 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:38:612 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:38:613 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:39:626 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:39:627 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[DEBUG] 10:01:39:726 LOG-SERVIDOR-CPU/(5256:5258): Llego una interrupcion de Kernel. El proceso sera desalojado 
+
+[INFO] 10:01:41:633 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:41:633 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 5 llego de Kernel para ser ejecutado 
+
+[INFO] 10:01:42:635 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:01:42:637 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 3 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:51:041 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:51:042 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:51:346 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:51:347 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:51:649 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:51:650 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:51:951 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:51:952 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:52:257 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:52:258 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:52:562 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:52:563 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:52:865 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:52:865 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:53:169 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:53:170 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:53:472 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:53:473 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:53:774 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:53:775 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:54:077 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:54:078 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:54:381 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:54:381 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:54:684 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:54:685 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:54:988 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:54:989 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:55:290 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:55:291 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:55:595 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:55:596 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:55:898 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:55:899 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:56:200 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:56:201 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:56:505 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:56:505 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:56:807 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:56:808 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:57:110 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:57:111 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:57:414 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:57:415 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:57:716 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:57:717 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:58:019 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:58:021 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+
+[INFO] 10:03:58:323 LOG-SERVIDOR-CPU/(5256:5257): Recibi una conexion de un cliente.
+[DEBUG] 10:03:58:324 LOG-SERVIDOR-CPU/(5256:5257): El proceso con pid 4 llego de Kernel para ser ejecutado 
+

@@ -1,0 +1,2970 @@
+[INFO] 10:00:02:158 LOG-GLOBAL-MEMORIA/(5251:5251): Directorio creado
+[INFO] 10:00:02:159 LOG-GLOBAL-MEMORIA/(5251:5251): Marcos totales en memoria = 40 
+
+[DEBUG] 10:00:04:812 LOG-GLOBAL-MEMORIA/(5251:5252): Handshake con CPU 
+
+[DEBUG] 10:00:04:812 LOG-GLOBAL-MEMORIA/(5251:5252): Valores enviados a CPU
+
+[DEBUG] 10:00:13:590 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ Llego el proceso:1  
+[INFO] 10:00:14:590 LOG-GLOBAL-MEMORIA/(5251:5252): Se creo el archivo
+[INFO] 10:00:14:590 LOG-GLOBAL-MEMORIA/(5251:5252): Numero de tabla asignada: 0 
+
+[INFO] 10:00:14:590 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla enviado a Kernel 
+[DEBUG] 10:00:14:590 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de INICIAR  PROCESO:Kernel ---
+
+[DEBUG] 10:00:15:600 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 1 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:00:15:600 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:15:601 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 0 y la entrada: 0 
+[INFO] 10:00:15:601 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:15:601 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:00:15:601 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:00:16:602 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:00:16:602 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 0
+[DEBUG] 10:00:16:602 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 0
+[INFO] 10:00:16:602 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:16:602 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:16:602 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:16:603 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ Llego el proceso:2  
+[INFO] 10:00:17:604 LOG-GLOBAL-MEMORIA/(5251:5252): Se creo el archivo
+[INFO] 10:00:17:604 LOG-GLOBAL-MEMORIA/(5251:5252): Numero de tabla asignada: 1 
+
+[INFO] 10:00:17:604 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla enviado a Kernel 
+[DEBUG] 10:00:17:604 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de INICIAR  PROCESO:Kernel ---
+
+[DEBUG] 10:00:17:605 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 1 en la direccion 0
+[DEBUG] 10:00:17:605 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:18:224 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ Llego el proceso:3  
+[INFO] 10:00:19:224 LOG-GLOBAL-MEMORIA/(5251:5252): Se creo el archivo
+[INFO] 10:00:19:224 LOG-GLOBAL-MEMORIA/(5251:5252): Numero de tabla asignada: 2 
+
+[INFO] 10:00:19:225 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla enviado a Kernel 
+[DEBUG] 10:00:19:225 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de INICIAR  PROCESO:Kernel ---
+
+[DEBUG] 10:00:19:225 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 2 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:00:19:225 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:19:226 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 1 y la entrada: 0 
+[INFO] 10:00:19:226 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:19:226 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:00:19:226 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:00:20:227 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:00:20:227 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 1
+[DEBUG] 10:00:20:227 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 1
+[INFO] 10:00:20:227 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:20:227 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:20:228 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:20:228 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 2 escribio el valor 1 en la direccion 256
+[DEBUG] 10:00:20:228 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:20:431 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 1 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:00:20:432 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:20:432 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 0 y la entrada: 0 
+[INFO] 10:00:20:432 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:20:433 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:00:20:433 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[ERROR] 10:00:20:433 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:00:20:433 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 0
+[INFO] 10:00:20:433 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:20:433 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:20:433 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:20:433 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 2 en la direccion 4
+[DEBUG] 10:00:20:434 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:20:635 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 3 en la direccion 8
+[DEBUG] 10:00:20:636 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:20:661 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ Llego el proceso:4  
+[INFO] 10:00:21:661 LOG-GLOBAL-MEMORIA/(5251:5252): Se creo el archivo
+[INFO] 10:00:21:661 LOG-GLOBAL-MEMORIA/(5251:5252): Numero de tabla asignada: 3 
+
+[INFO] 10:00:21:661 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla enviado a Kernel 
+[DEBUG] 10:00:21:662 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de INICIAR  PROCESO:Kernel ---
+
+[DEBUG] 10:00:21:662 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 4 en la direccion 12
+[DEBUG] 10:00:21:662 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:22:669 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:00:22:670 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:22:670 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:00:22:670 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:22:671 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:00:22:671 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:00:23:671 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:00:23:671 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 2
+[DEBUG] 10:00:23:671 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 2
+[INFO] 10:00:23:672 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:23:672 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:23:672 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:23:673 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 escribio el valor 1 en la direccion 512
+[DEBUG] 10:00:23:673 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:23:674 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 escribio el valor 2 en la direccion 516
+[DEBUG] 10:00:23:674 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:23:674 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:00:23:675 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:23:675 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:00:23:675 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:23:676 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:00:23:676 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:00:24:676 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:00:24:676 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 3
+[DEBUG] 10:00:24:677 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 3
+[INFO] 10:00:24:677 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:24:677 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:24:680 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:24:681 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 escribio el valor 11 en la direccion 768
+[DEBUG] 10:00:24:681 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:24:682 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 escribio el valor 12 en la direccion 772
+[DEBUG] 10:00:24:683 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:24:683 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:00:24:683 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:24:684 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:00:24:684 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:24:685 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:00:24:685 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:00:25:686 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:00:25:686 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 4
+[DEBUG] 10:00:25:686 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 4
+[INFO] 10:00:25:686 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:25:686 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:25:686 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:25:687 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ Llego el proceso:5  
+[INFO] 10:00:26:688 LOG-GLOBAL-MEMORIA/(5251:5252): Se creo el archivo
+[INFO] 10:00:26:688 LOG-GLOBAL-MEMORIA/(5251:5252): Numero de tabla asignada: 4 
+
+[INFO] 10:00:26:688 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla enviado a Kernel 
+[DEBUG] 10:00:26:688 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de INICIAR  PROCESO:Kernel ---
+
+[DEBUG] 10:00:26:689 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 escribio el valor 21 en la direccion 1024
+[DEBUG] 10:00:26:689 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:27:194 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 2 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:00:27:194 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:27:194 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 1 y la entrada: 0 
+[INFO] 10:00:27:194 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:27:195 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:00:27:195 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:00:28:196 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:00:28:196 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 5
+[DEBUG] 10:00:28:196 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 5
+[INFO] 10:00:28:196 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:28:196 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:28:197 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:28:197 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 2 escribio el valor 11 en la direccion 1280
+[DEBUG] 10:00:28:197 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:28:700 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 2 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:00:28:700 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:28:701 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 1 y la entrada: 0 
+[INFO] 10:00:28:701 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:28:701 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:00:28:701 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:00:29:702 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:00:29:702 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 6
+[DEBUG] 10:00:29:702 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 6
+[INFO] 10:00:29:702 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:29:702 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:29:703 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:29:703 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 2 escribio el valor 21 en la direccion 1536
+[DEBUG] 10:00:29:704 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:30:206 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 2 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:00:30:206 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:30:207 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 1 y la entrada: 0 
+[INFO] 10:00:30:207 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:30:207 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:00:30:207 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:00:31:207 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:00:31:208 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 7
+[DEBUG] 10:00:31:208 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 7
+[INFO] 10:00:31:208 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:31:209 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:31:210 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:31:210 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 2 escribio el valor 31 en la direccion 1792
+[DEBUG] 10:00:31:211 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:31:713 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 2 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:00:31:714 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:31:714 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 1 y la entrada: 1 
+[INFO] 10:00:31:714 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:00:31:714 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:00:31:715 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:00:31:715 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 0  modificada 
+ 
+[INFO] 10:00:32:715 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:00:33:715 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:00:33:716 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 8
+[DEBUG] 10:00:33:716 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 8
+[INFO] 10:00:33:716 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:33:717 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:33:717 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 2 escribio el valor 41 en la direccion 2048
+[DEBUG] 10:00:33:717 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:35:128 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 1 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:00:35:129 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:35:129 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 0 y la entrada: 0 
+[INFO] 10:00:35:129 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:35:130 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:00:35:130 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[ERROR] 10:00:35:130 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:00:35:130 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 0
+[INFO] 10:00:35:130 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:35:130 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:35:130 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:35:131 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 5 en la direccion 16
+[DEBUG] 10:00:35:131 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:35:333 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 1 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:00:35:333 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:35:333 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 0 y la entrada: 0 
+[INFO] 10:00:35:333 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:35:334 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:00:35:334 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:00:36:334 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:00:36:334 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 9
+[DEBUG] 10:00:36:334 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 9
+[INFO] 10:00:36:334 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:36:335 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:36:335 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:36:335 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 2 ha sido enviado para suspender
+[INFO] 10:00:37:336 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:00:38:336 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 2 ya esta en swap
+[INFO] 10:00:39:337 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 3 ya esta en swap
+[INFO] 10:00:40:338 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 4 ya esta en swap
+[DEBUG] 10:00:40:339 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 2 ha sido suspendido
+[DEBUG] 10:00:40:340 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 11 en la direccion 2304
+[DEBUG] 10:00:40:340 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:40:341 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:00:40:341 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:00:41:448 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 2 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:00:41:448 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:41:448 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 1 y la entrada: 1 
+[INFO] 10:00:41:448 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:00:41:449 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:00:41:449 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:00:42:450 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:00:42:450 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 10
+[DEBUG] 10:00:42:450 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 10
+[INFO] 10:00:42:450 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:42:450 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:42:451 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:42:451 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:2 leyo el valor:41 en la direccion 2560 
+[DEBUG] 10:00:42:451 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:00:42:954 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 2 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:00:42:954 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:42:954 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 1 y la entrada: 0 
+[INFO] 10:00:42:954 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:42:955 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:00:42:955 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:00:43:955 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:00:43:955 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 11
+[DEBUG] 10:00:43:955 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 11
+[INFO] 10:00:43:955 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:43:956 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:43:957 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:43:957 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:2 leyo el valor:31 en la direccion 2816 
+[DEBUG] 10:00:43:957 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:00:44:468 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 2 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:00:44:468 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:44:468 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 1 y la entrada: 0 
+[INFO] 10:00:44:468 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:44:469 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:00:44:469 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:00:45:469 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:00:45:469 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 12
+[DEBUG] 10:00:45:469 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 12
+[INFO] 10:00:45:469 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:45:470 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:45:470 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:45:470 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:2 leyo el valor:21 en la direccion 3072 
+[DEBUG] 10:00:45:471 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:00:45:974 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 2 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:00:45:975 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:45:975 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 1 y la entrada: 0 
+[INFO] 10:00:45:975 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:45:976 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:00:45:976 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:00:46:976 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:00:46:977 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 13
+[DEBUG] 10:00:46:977 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 13
+[INFO] 10:00:46:977 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:00:46:977 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:46:978 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:46:978 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:2 leyo el valor:11 en la direccion 3328 
+[DEBUG] 10:00:46:978 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:00:47:482 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 2 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:00:47:482 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:47:482 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 1 y la entrada: 0 
+[INFO] 10:00:47:482 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:47:482 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:00:47:483 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:00:48:483 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:00:48:484 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 14
+[DEBUG] 10:00:48:484 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 14
+[INFO] 10:00:48:484 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:48:485 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:48:485 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:2 leyo el valor:1 en la direccion 3584 
+[DEBUG] 10:00:48:485 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:00:49:992 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 2 ha sido enviado para suspender
+[INFO] 10:00:50:992 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[DEBUG] 10:00:50:993 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 2 ha sido suspendido
+[DEBUG] 10:00:50:994 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 1 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:00:50:994 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:50:995 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 0 y la entrada: 0 
+[INFO] 10:00:50:995 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:50:995 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:00:50:996 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[ERROR] 10:00:50:996 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:00:50:996 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 9
+[INFO] 10:00:50:996 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 4 
+[INFO] 10:00:50:996 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:50:996 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:50:997 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:00:50:997 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:00:50:998 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 12 en la direccion 2308
+[DEBUG] 10:00:51:000 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:54:435 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 2 ha sido enviado para finalizar
+[INFO] 10:00:55:435 LOG-GLOBAL-MEMORIA/(5251:5252): Se elimino el archivo: /home/utnso/swap/2.swap /n
+[INFO] 10:00:55:436 LOG-GLOBAL-MEMORIA/(5251:5252): Respuesta de finalizado de proceso enviada
+[DEBUG] 10:00:56:050 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 1 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:00:56:050 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:56:051 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 0 y la entrada: 0 
+[INFO] 10:00:56:051 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:56:052 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:00:56:052 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[ERROR] 10:00:56:052 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:00:56:052 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 9
+[INFO] 10:00:56:052 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 4 
+[INFO] 10:00:56:052 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:56:052 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:56:053 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 13 en la direccion 2312
+[DEBUG] 10:00:56:053 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:56:255 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 14 en la direccion 2316
+[DEBUG] 10:00:56:255 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:56:457 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 15 en la direccion 2320
+[DEBUG] 10:00:56:457 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:56:659 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 1 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:00:56:659 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:56:659 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 0 y la entrada: 0 
+[INFO] 10:00:56:659 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:56:660 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:00:56:660 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:00:57:660 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:00:57:660 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 15
+[DEBUG] 10:00:57:660 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 15
+[INFO] 10:00:57:660 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 4 
+[INFO] 10:00:57:661 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:00:57:661 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:00:57:662 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 21 en la direccion 3840
+[DEBUG] 10:00:57:662 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:57:864 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 22 en la direccion 3844
+[DEBUG] 10:00:57:864 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:58:071 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 23 en la direccion 3848
+[DEBUG] 10:00:58:071 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:58:273 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 24 en la direccion 3852
+[DEBUG] 10:00:58:273 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:58:475 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 escribio el valor 25 en la direccion 3856
+[DEBUG] 10:00:58:475 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:00:59:484 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:00:59:485 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:00:59:485 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:00:59:485 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:00:59:486 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:00:59:486 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:01:00:486 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:01:00:486 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 16
+[DEBUG] 10:01:00:486 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 16
+[INFO] 10:01:00:487 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 4 
+[INFO] 10:01:00:487 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:00:487 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:00:488 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 ha sido enviado para suspender
+[INFO] 10:01:01:488 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:01:02:488 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:01:03:489 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 2 ya esta en swap
+[DEBUG] 10:01:03:489 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 ha sido suspendido
+[DEBUG] 10:01:03:490 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 5 escribio el valor 1 en la direccion 4096
+[DEBUG] 10:01:03:491 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:05:507 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 1 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:01:05:507 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:05:508 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 0 y la entrada: 0 
+[INFO] 10:01:05:508 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:05:509 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:01:05:509 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:01:06:510 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:01:06:510 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 17
+[DEBUG] 10:01:06:510 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 17
+[INFO] 10:01:06:510 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 4 
+[INFO] 10:01:06:510 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:06:511 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:06:511 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:1 en la direccion 4352 
+[DEBUG] 10:01:06:511 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:06:713 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:1751672834 en la direccion 4356 
+[DEBUG] 10:01:06:713 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:06:915 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:28311912 en la direccion 4360 
+[DEBUG] 10:01:06:916 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:07:117 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:0 en la direccion 4364 
+[DEBUG] 10:01:07:117 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:07:319 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:0 en la direccion 4368 
+[DEBUG] 10:01:07:319 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:07:520 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 1 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:01:07:520 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:07:521 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 0 y la entrada: 0 
+[INFO] 10:01:07:521 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:07:521 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:01:07:521 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:01:08:522 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:01:08:522 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 18
+[DEBUG] 10:01:08:522 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 18
+[INFO] 10:01:08:522 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 4 
+[INFO] 10:01:08:522 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:08:523 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:08:523 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:11 en la direccion 4608 
+[DEBUG] 10:01:08:523 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:08:725 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:12 en la direccion 4612 
+[DEBUG] 10:01:08:725 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:08:927 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:13 en la direccion 4616 
+[DEBUG] 10:01:08:927 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:09:129 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:14 en la direccion 4620 
+[DEBUG] 10:01:09:129 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:09:332 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:15 en la direccion 4624 
+[DEBUG] 10:01:09:332 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:09:534 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 1 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:01:09:534 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:09:534 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 0 y la entrada: 0 
+[INFO] 10:01:09:534 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:09:535 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:01:09:535 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:01:10:535 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:01:10:535 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 19
+[DEBUG] 10:01:10:535 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 19
+[INFO] 10:01:10:536 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 4 
+[INFO] 10:01:10:536 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:10:536 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:10:537 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:21 en la direccion 4864 
+[DEBUG] 10:01:10:537 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:10:740 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:22 en la direccion 4868 
+[DEBUG] 10:01:10:740 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:10:942 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:23 en la direccion 4872 
+[DEBUG] 10:01:10:942 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:11:144 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:24 en la direccion 4876 
+[DEBUG] 10:01:11:144 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:11:345 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:1 leyo el valor:25 en la direccion 4880 
+[DEBUG] 10:01:11:345 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:12:351 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 1 ha sido enviado para finalizar
+[INFO] 10:01:13:352 LOG-GLOBAL-MEMORIA/(5251:5252): Se elimino el archivo: /home/utnso/swap/1.swap /n
+[INFO] 10:01:13:352 LOG-GLOBAL-MEMORIA/(5251:5252): Respuesta de finalizado de proceso enviada
+[DEBUG] 10:01:13:357 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:01:13:357 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:13:358 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:13:358 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:13:359 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:01:13:359 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[ERROR] 10:01:13:359 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:13:359 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 16
+[INFO] 10:01:13:359 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 4 
+[INFO] 10:01:13:359 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:13:359 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:13:360 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 5 escribio el valor 2 en la direccion 4100
+[DEBUG] 10:01:13:360 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:14:368 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:01:14:368 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:14:369 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:01:14:370 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:14:370 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:01:14:370 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[ERROR] 10:01:14:370 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:14:370 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 4
+[INFO] 10:01:14:370 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 4 
+[INFO] 10:01:14:371 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:14:371 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:14:371 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 escribio el valor 22 en la direccion 1028
+[DEBUG] 10:01:14:372 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:14:372 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:01:14:372 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:14:373 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:01:14:373 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:14:374 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:01:14:374 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:01:15:374 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:01:15:374 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 20
+[DEBUG] 10:01:15:374 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 20
+[INFO] 10:01:15:374 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 4 
+[INFO] 10:01:15:374 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:15:375 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:15:375 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 escribio el valor 31 en la direccion 5120
+[DEBUG] 10:01:15:375 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:15:383 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:01:15:383 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:15:384 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:15:384 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:15:390 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:01:15:391 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:01:16:391 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:01:16:391 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 21
+[DEBUG] 10:01:16:391 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 21
+[INFO] 10:01:16:391 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 4 
+[INFO] 10:01:16:391 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:16:393 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:16:393 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 5 escribio el valor 11 en la direccion 5376
+[DEBUG] 10:01:16:393 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:17:403 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:01:17:403 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:17:403 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:01:17:404 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:17:404 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:01:17:404 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[ERROR] 10:01:17:404 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:17:404 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 20
+[INFO] 10:01:17:404 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 4 
+[INFO] 10:01:17:405 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:17:405 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:17:405 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 escribio el valor 32 en la direccion 5124
+[DEBUG] 10:01:17:405 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:17:406 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:01:17:406 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:17:407 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:01:17:407 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:01:17:407 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:01:17:407 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:01:17:407 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 0  modificada 
+ 
+[INFO] 10:01:18:408 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:01:19:409 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:01:19:409 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 22
+[DEBUG] 10:01:19:409 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 22
+[INFO] 10:01:19:409 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:19:410 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:19:410 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 escribio el valor 41 en la direccion 5632
+[DEBUG] 10:01:19:410 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:19:414 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:01:19:414 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:19:415 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:19:415 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:19:415 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:01:19:415 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[ERROR] 10:01:19:415 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:19:415 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 21
+[INFO] 10:01:19:415 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:01:19:415 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:19:415 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:19:416 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 5 escribio el valor 12 en la direccion 5380
+[DEBUG] 10:01:19:416 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:20:425 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:01:20:425 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:20:425 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:01:20:425 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:01:20:426 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:01:20:426 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[ERROR] 10:01:20:426 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:20:426 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 22
+[INFO] 10:01:20:426 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 0 
+[INFO] 10:01:20:426 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:20:427 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:20:427 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 escribio el valor 42 en la direccion 5636
+[DEBUG] 10:01:20:427 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:20:428 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 5 
+ 
+[DEBUG] 10:01:20:428 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:20:429 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:01:20:429 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:01:20:429 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 1
+[INFO] 10:01:20:429 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 5 
+
+[INFO] 10:01:20:429 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 1  modificada 
+ 
+[INFO] 10:01:21:430 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:01:22:430 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 5 leida de swap
+[INFO] 10:01:22:430 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 5, nro_marco: 23
+[DEBUG] 10:01:22:430 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 23
+[INFO] 10:01:22:431 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:22:431 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:22:432 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 escribio el valor 51 en la direccion 5888
+[DEBUG] 10:01:22:432 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:22:435 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:01:22:435 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:22:436 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:22:436 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:22:436 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:01:22:437 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[ERROR] 10:01:22:437 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:22:437 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 16
+[INFO] 10:01:22:437 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 1 
+[INFO] 10:01:22:437 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:22:437 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:22:437 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:5 leyo el valor:1 en la direccion 4096 
+[DEBUG] 10:01:22:437 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:23:445 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 5 
+ 
+[DEBUG] 10:01:23:445 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:23:445 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:01:23:445 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:01:23:446 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 1
+[INFO] 10:01:23:446 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 5 
+
+[ERROR] 10:01:23:446 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:23:446 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 23
+[INFO] 10:01:23:446 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 1 
+[INFO] 10:01:23:446 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:23:447 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:23:447 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 escribio el valor 52 en la direccion 5892
+[DEBUG] 10:01:23:447 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:23:551 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:01:23:551 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:23:552 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:23:552 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:23:552 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:01:23:552 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[ERROR] 10:01:23:552 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:23:552 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 21
+[INFO] 10:01:23:552 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 1 
+[INFO] 10:01:23:552 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:23:553 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:23:553 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:5 leyo el valor:11 en la direccion 5376 
+[DEBUG] 10:01:23:553 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:24:666 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:01:24:666 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:24:666 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:24:667 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:24:667 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:01:24:667 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[ERROR] 10:01:24:667 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:24:667 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 16
+[INFO] 10:01:24:667 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 1 
+[INFO] 10:01:24:667 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:24:667 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:24:668 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:5 leyo el valor:2 en la direccion 4100 
+[DEBUG] 10:01:24:668 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:25:779 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:01:25:779 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:25:780 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:25:780 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:25:780 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:01:25:780 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[ERROR] 10:01:25:780 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:25:780 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 21
+[INFO] 10:01:25:780 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 1 
+[INFO] 10:01:25:781 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:25:781 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:25:781 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:5 leyo el valor:12 en la direccion 5380 
+[DEBUG] 10:01:25:781 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:26:895 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:01:26:895 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:26:896 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:26:896 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:26:896 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:01:26:896 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:01:27:896 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:01:27:897 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 24
+[DEBUG] 10:01:27:897 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 24
+[INFO] 10:01:27:897 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 1 
+[INFO] 10:01:27:897 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:27:898 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:27:898 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 5 escribio el valor 21 en la direccion 6144
+[DEBUG] 10:01:27:898 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:29:013 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:01:29:013 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:29:014 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:29:014 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:29:015 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:01:29:015 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[ERROR] 10:01:29:015 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:29:015 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 24
+[INFO] 10:01:29:015 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 1 
+[INFO] 10:01:29:016 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:29:016 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:29:025 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 5 escribio el valor 22 en la direccion 6148
+[DEBUG] 10:01:29:026 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:30:138 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:01:30:138 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:30:139 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:30:140 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:30:140 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:01:30:140 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:01:31:140 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:01:31:142 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 25
+[DEBUG] 10:01:31:142 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 25
+[INFO] 10:01:31:142 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 1 
+[INFO] 10:01:31:144 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:31:144 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:31:145 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 5 escribio el valor 31 en la direccion 6400
+[DEBUG] 10:01:31:145 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:32:255 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:01:32:255 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:32:255 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:32:255 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:32:256 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:01:32:256 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[ERROR] 10:01:32:256 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:32:256 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 25
+[INFO] 10:01:32:256 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 1 
+[INFO] 10:01:32:256 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:32:256 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:32:256 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 5 escribio el valor 32 en la direccion 6404
+[DEBUG] 10:01:32:256 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO ESCRITURA:CPU---
+
+[DEBUG] 10:01:33:366 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:01:33:366 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:33:367 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:33:367 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:33:367 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:01:33:367 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[ERROR] 10:01:33:367 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:33:367 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 24
+[INFO] 10:01:33:367 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 1 
+[INFO] 10:01:33:367 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:33:368 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:33:368 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:5 leyo el valor:21 en la direccion 6144 
+[DEBUG] 10:01:33:368 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:34:480 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:01:34:480 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:34:481 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:34:481 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:34:481 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:01:34:481 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[ERROR] 10:01:34:481 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:34:481 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 24
+[INFO] 10:01:34:481 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 1 
+[INFO] 10:01:34:481 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:34:481 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:34:482 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:5 leyo el valor:22 en la direccion 6148 
+[DEBUG] 10:01:34:482 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:35:593 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:01:35:593 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:35:593 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:35:593 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:35:594 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:01:35:594 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[ERROR] 10:01:35:594 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:35:594 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 25
+[INFO] 10:01:35:594 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 1 
+[INFO] 10:01:35:594 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:35:594 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:35:595 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:5 leyo el valor:31 en la direccion 6400 
+[DEBUG] 10:01:35:595 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:36:606 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:01:36:606 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:36:607 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:01:36:607 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:36:607 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:01:36:608 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:01:36:608 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 2  modificada 
+ 
+[INFO] 10:01:37:608 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 2 ya esta en swap
+[INFO] 10:01:38:609 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:01:38:609 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 26
+[DEBUG] 10:01:38:609 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 26
+[INFO] 10:01:38:609 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:38:610 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:38:611 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:1 en la direccion 6656 
+[DEBUG] 10:01:38:611 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:38:614 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 5 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:01:38:614 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:38:614 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 4 y la entrada: 0 
+[INFO] 10:01:38:614 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:38:615 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:01:38:615 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[ERROR] 10:01:38:615 LOG-GLOBAL-MEMORIA/(5251:5252): ENTRO ACA
+[DEBUG] 10:01:38:615 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 25
+[INFO] 10:01:38:615 LOG-GLOBAL-MEMORIA/(5251:5252): Hubo remplazo: 0 , Pagina remplazada: 2 
+[INFO] 10:01:38:615 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:38:616 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:38:616 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:5 leyo el valor:32 en la direccion 6404 
+[DEBUG] 10:01:38:616 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:39:627 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:01:39:627 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:39:628 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:01:39:628 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:39:629 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:01:39:629 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:01:39:629 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 3  modificada 
+ 
+[INFO] 10:01:40:629 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 3 ya esta en swap
+[INFO] 10:01:41:629 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:01:41:630 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 27
+[DEBUG] 10:01:41:630 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 27
+[INFO] 10:01:41:630 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:41:630 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:41:631 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:11 en la direccion 6912 
+[DEBUG] 10:01:41:631 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:41:634 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 5 ha sido enviado para finalizar
+[INFO] 10:01:42:634 LOG-GLOBAL-MEMORIA/(5251:5252): Se elimino el archivo: /home/utnso/swap/5.swap /n
+[INFO] 10:01:42:635 LOG-GLOBAL-MEMORIA/(5251:5252): Respuesta de finalizado de proceso enviada
+[DEBUG] 10:01:42:639 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:01:42:639 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:42:640 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:01:42:640 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:42:640 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:01:42:640 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:01:42:640 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 4  modificada 
+ 
+[INFO] 10:01:43:640 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 4 ya esta en swap
+[INFO] 10:01:44:641 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:01:44:641 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 28
+[DEBUG] 10:01:44:641 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 28
+[INFO] 10:01:44:641 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:44:642 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:44:642 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:21 en la direccion 7168 
+[DEBUG] 10:01:44:643 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:44:643 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:01:44:644 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:44:644 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:01:44:644 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:44:645 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:01:44:645 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:01:44:645 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 5  modificada 
+ 
+[INFO] 10:01:45:645 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 5 ya esta en swap
+[INFO] 10:01:46:646 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:01:46:646 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 29
+[DEBUG] 10:01:46:646 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 29
+[INFO] 10:01:46:646 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:46:647 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:46:647 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:31 en la direccion 7424 
+[DEBUG] 10:01:46:647 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:46:647 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:01:46:647 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:46:648 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:01:46:648 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:01:46:649 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:01:46:649 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:01:46:649 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 0  modificada 
+ 
+[INFO] 10:01:47:649 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:01:48:650 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:01:48:651 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 30
+[DEBUG] 10:01:48:651 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 30
+[INFO] 10:01:48:651 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:48:652 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:48:652 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:41 en la direccion 7680 
+[DEBUG] 10:01:48:653 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:48:653 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 5 
+ 
+[DEBUG] 10:01:48:653 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:48:654 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:01:48:654 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:01:48:654 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 1
+[INFO] 10:01:48:654 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 5 
+
+[INFO] 10:01:48:654 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 1  modificada 
+ 
+[INFO] 10:01:49:655 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:01:50:655 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 5 leida de swap
+[INFO] 10:01:50:655 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 5, nro_marco: 31
+[DEBUG] 10:01:50:655 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 31
+[INFO] 10:01:50:656 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:50:656 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:50:657 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:51 en la direccion 7936 
+[DEBUG] 10:01:50:657 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:51:665 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:01:51:665 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:51:666 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:01:51:666 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:51:666 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:01:51:666 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:01:51:666 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 2  modificada 
+ 
+[INFO] 10:01:52:667 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 2 ya esta en swap
+[INFO] 10:01:53:669 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:01:53:669 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 32
+[DEBUG] 10:01:53:669 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 32
+[INFO] 10:01:53:669 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:53:669 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:53:670 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:2 en la direccion 8196 
+[DEBUG] 10:01:53:670 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:53:670 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:01:53:670 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:53:671 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:01:53:671 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:53:672 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:01:53:672 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:01:53:672 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 3  modificada 
+ 
+[INFO] 10:01:54:673 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 3 ya esta en swap
+[INFO] 10:01:55:673 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:01:55:674 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 33
+[DEBUG] 10:01:55:674 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 33
+[INFO] 10:01:55:674 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:55:676 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:55:677 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:12 en la direccion 8452 
+[DEBUG] 10:01:55:677 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:55:678 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:01:55:678 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:55:679 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:01:55:679 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:55:680 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:01:55:680 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:01:55:680 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 4  modificada 
+ 
+[INFO] 10:01:56:684 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 4 ya esta en swap
+[INFO] 10:01:57:684 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:01:57:685 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 34
+[DEBUG] 10:01:57:685 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 34
+[INFO] 10:01:57:685 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:57:686 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:57:686 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:22 en la direccion 8708 
+[DEBUG] 10:01:57:686 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:57:687 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:01:57:687 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:57:688 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:01:57:688 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:01:57:689 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:01:57:689 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:01:57:689 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 5  modificada 
+ 
+[INFO] 10:01:58:689 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 5 ya esta en swap
+[INFO] 10:01:59:690 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:01:59:690 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 35
+[DEBUG] 10:01:59:690 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 35
+[INFO] 10:01:59:690 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:01:59:691 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:01:59:691 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:32 en la direccion 8964 
+[DEBUG] 10:01:59:692 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:01:59:693 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:01:59:693 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:01:59:694 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:01:59:694 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:01:59:694 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:01:59:694 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:01:59:695 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 0  modificada 
+ 
+[INFO] 10:02:00:696 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:02:01:696 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:02:01:697 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 36
+[DEBUG] 10:02:01:697 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 36
+[INFO] 10:02:01:697 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:01:698 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:01:698 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:42 en la direccion 9220 
+[DEBUG] 10:02:01:698 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:01:699 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 5 
+ 
+[DEBUG] 10:02:01:699 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:01:699 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:02:01:699 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:02:01:700 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 1
+[INFO] 10:02:01:700 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 5 
+
+[INFO] 10:02:01:700 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 1  modificada 
+ 
+[INFO] 10:02:02:700 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:02:03:701 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 5 leida de swap
+[INFO] 10:02:03:705 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 5, nro_marco: 37
+[DEBUG] 10:02:03:705 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 37
+[INFO] 10:02:03:705 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:03:706 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:03:707 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:52 en la direccion 9476 
+[DEBUG] 10:02:03:707 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:04:727 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:02:04:727 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:04:727 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:04:727 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:04:728 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:02:04:728 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:02:04:728 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 2  modificada 
+ 
+[INFO] 10:02:05:728 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 2 ya esta en swap
+[INFO] 10:02:06:729 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:02:06:733 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 38
+[DEBUG] 10:02:06:733 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 38
+[INFO] 10:02:06:733 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:06:734 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:06:734 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:1 en la direccion 9728 
+[DEBUG] 10:02:06:734 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:06:735 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:02:06:735 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:06:736 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:06:736 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:06:736 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:02:06:737 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:02:06:737 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 3  modificada 
+ 
+[INFO] 10:02:07:737 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 3 ya esta en swap
+[INFO] 10:02:08:738 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:02:08:738 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 39
+[DEBUG] 10:02:08:738 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 39
+[INFO] 10:02:08:738 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:08:738 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:08:739 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:11 en la direccion 9984 
+[DEBUG] 10:02:08:739 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:08:739 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:02:08:739 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:08:740 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:08:740 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:08:740 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:02:08:740 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:02:08:740 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 4  modificada 
+ 
+[INFO] 10:02:09:740 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 4 ya esta en swap
+[INFO] 10:02:10:741 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:02:10:741 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 1
+[DEBUG] 10:02:10:741 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 1
+[INFO] 10:02:10:741 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:10:741 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:10:742 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:21 en la direccion 256 
+[DEBUG] 10:02:10:742 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:10:743 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:02:10:743 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:10:744 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:10:744 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:10:745 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:02:10:745 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:02:10:745 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 5  modificada 
+ 
+[INFO] 10:02:11:746 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 5 ya esta en swap
+[INFO] 10:02:12:746 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:02:12:746 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 5
+[DEBUG] 10:02:12:747 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 5
+[INFO] 10:02:12:747 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:12:747 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:12:748 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:31 en la direccion 1280 
+[DEBUG] 10:02:12:748 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:12:749 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:02:12:749 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:12:750 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:02:12:750 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:02:12:751 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:02:12:751 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:02:12:751 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 0  modificada 
+ 
+[INFO] 10:02:13:751 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:02:14:752 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:02:14:752 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 6
+[DEBUG] 10:02:14:752 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 6
+[INFO] 10:02:14:752 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:14:753 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:14:760 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:41 en la direccion 1536 
+[DEBUG] 10:02:14:760 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:14:761 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 5 
+ 
+[DEBUG] 10:02:14:761 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:14:762 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:02:14:764 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:02:14:764 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 1
+[INFO] 10:02:14:764 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 5 
+
+[INFO] 10:02:14:764 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 1  modificada 
+ 
+[INFO] 10:02:15:765 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:02:16:765 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 5 leida de swap
+[INFO] 10:02:16:766 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 5, nro_marco: 7
+[DEBUG] 10:02:16:766 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 7
+[INFO] 10:02:16:766 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:16:766 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:16:767 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:51 en la direccion 1792 
+[DEBUG] 10:02:16:767 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:17:777 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:02:17:777 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:17:778 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:17:779 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:17:779 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:02:17:779 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:02:17:780 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 2  modificada 
+ 
+[INFO] 10:02:18:780 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 2 ya esta en swap
+[INFO] 10:02:19:781 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:02:19:781 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 8
+[DEBUG] 10:02:19:781 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 8
+[INFO] 10:02:19:781 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:19:782 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:19:782 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:2 en la direccion 2052 
+[DEBUG] 10:02:19:783 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:19:783 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:02:19:783 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:19:784 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:19:784 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:19:785 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:02:19:785 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:02:19:785 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 3  modificada 
+ 
+[INFO] 10:02:20:786 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 3 ya esta en swap
+[INFO] 10:02:21:787 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:02:21:787 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 10
+[DEBUG] 10:02:21:787 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 10
+[INFO] 10:02:21:787 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:21:788 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:21:788 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:12 en la direccion 2564 
+[DEBUG] 10:02:21:788 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:21:788 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:02:21:788 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:21:789 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:21:789 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:21:790 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:02:21:790 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:02:21:790 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 4  modificada 
+ 
+[INFO] 10:02:22:790 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 4 ya esta en swap
+[INFO] 10:02:23:790 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:02:23:791 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 14
+[DEBUG] 10:02:23:791 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 14
+[INFO] 10:02:23:791 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:23:792 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:23:793 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:22 en la direccion 3588 
+[DEBUG] 10:02:23:793 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:23:793 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:02:23:794 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:23:794 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:23:794 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:23:795 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:02:23:795 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:02:23:795 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 5  modificada 
+ 
+[INFO] 10:02:24:795 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 5 ya esta en swap
+[INFO] 10:02:25:796 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:02:25:796 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 13
+[DEBUG] 10:02:25:796 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 13
+[INFO] 10:02:25:796 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:25:797 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:25:797 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:32 en la direccion 3332 
+[DEBUG] 10:02:25:797 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:25:798 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:02:25:798 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:25:799 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:02:25:799 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:02:25:800 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:02:25:800 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:02:25:800 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 0  modificada 
+ 
+[INFO] 10:02:26:801 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:02:27:802 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:02:27:802 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 12
+[DEBUG] 10:02:27:802 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 12
+[INFO] 10:02:27:802 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:27:803 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:27:804 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:42 en la direccion 3076 
+[DEBUG] 10:02:27:804 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:27:805 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 5 
+ 
+[DEBUG] 10:02:27:805 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:27:807 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:02:27:807 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:02:27:808 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 1
+[INFO] 10:02:27:808 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 5 
+
+[INFO] 10:02:27:808 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 1  modificada 
+ 
+[INFO] 10:02:28:809 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:02:29:810 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 5 leida de swap
+[INFO] 10:02:29:810 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 5, nro_marco: 11
+[DEBUG] 10:02:29:810 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 11
+[INFO] 10:02:29:810 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:29:811 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:29:812 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:52 en la direccion 2820 
+[DEBUG] 10:02:29:812 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:30:820 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:02:30:820 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:30:820 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:30:820 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:30:821 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:02:30:821 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:02:30:821 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 2  modificada 
+ 
+[INFO] 10:02:31:822 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 2 ya esta en swap
+[INFO] 10:02:32:822 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:02:32:822 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 0
+[DEBUG] 10:02:32:822 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 0
+[INFO] 10:02:32:822 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:32:823 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:32:823 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:1 en la direccion 0 
+[DEBUG] 10:02:32:823 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:32:824 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:02:32:824 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:32:824 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:32:824 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:32:825 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:02:32:827 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:02:32:827 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 3  modificada 
+ 
+[INFO] 10:02:33:828 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 3 ya esta en swap
+[INFO] 10:02:34:828 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:02:34:829 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 9
+[DEBUG] 10:02:34:829 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 9
+[INFO] 10:02:34:829 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:34:830 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:34:830 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:11 en la direccion 2304 
+[DEBUG] 10:02:34:830 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:34:831 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:02:34:831 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:34:832 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:34:832 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:34:832 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:02:34:832 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:02:34:833 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 4  modificada 
+ 
+[INFO] 10:02:35:833 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 4 ya esta en swap
+[INFO] 10:02:36:834 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:02:36:834 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 15
+[DEBUG] 10:02:36:834 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 15
+[INFO] 10:02:36:835 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:36:835 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:36:836 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:21 en la direccion 3840 
+[DEBUG] 10:02:36:836 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:36:836 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:02:36:837 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:36:837 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:36:837 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:36:838 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:02:36:838 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:02:36:838 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 5  modificada 
+ 
+[INFO] 10:02:37:839 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 5 ya esta en swap
+[INFO] 10:02:38:840 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:02:38:840 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 17
+[DEBUG] 10:02:38:840 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 17
+[INFO] 10:02:38:840 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:38:841 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:38:842 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:31 en la direccion 4352 
+[DEBUG] 10:02:38:842 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:38:842 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:02:38:842 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:38:843 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:02:38:843 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:02:38:844 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:02:38:844 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:02:38:844 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 0  modificada 
+ 
+[INFO] 10:02:39:844 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:02:40:844 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:02:40:845 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 18
+[DEBUG] 10:02:40:845 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 18
+[INFO] 10:02:40:845 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:40:846 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:40:846 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:41 en la direccion 4608 
+[DEBUG] 10:02:40:846 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:40:847 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 5 
+ 
+[DEBUG] 10:02:40:847 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:40:848 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:02:40:848 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:02:40:848 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 1
+[INFO] 10:02:40:848 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 5 
+
+[INFO] 10:02:40:848 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 1  modificada 
+ 
+[INFO] 10:02:41:849 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:02:42:849 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 5 leida de swap
+[INFO] 10:02:42:850 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 5, nro_marco: 19
+[DEBUG] 10:02:42:850 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 19
+[INFO] 10:02:42:850 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:42:851 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:42:851 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:51 en la direccion 4864 
+[DEBUG] 10:02:42:851 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:43:858 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:02:43:858 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:43:858 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:43:858 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:43:859 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:02:43:859 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:02:43:859 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 2  modificada 
+ 
+[INFO] 10:02:44:859 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 2 ya esta en swap
+[INFO] 10:02:45:860 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:02:45:861 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 2
+[DEBUG] 10:02:45:861 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 2
+[INFO] 10:02:45:861 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:45:862 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:45:862 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:2 en la direccion 516 
+[DEBUG] 10:02:45:862 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:45:863 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:02:45:863 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:45:864 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:45:864 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:45:864 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:02:45:864 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:02:45:864 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 3  modificada 
+ 
+[INFO] 10:02:46:864 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 3 ya esta en swap
+[INFO] 10:02:47:865 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:02:47:865 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 3
+[DEBUG] 10:02:47:866 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 3
+[INFO] 10:02:47:866 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:47:866 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:47:867 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:12 en la direccion 772 
+[DEBUG] 10:02:47:867 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:47:868 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:02:47:868 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:47:868 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:47:868 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:47:869 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:02:47:869 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:02:47:869 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 4  modificada 
+ 
+[INFO] 10:02:48:869 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 4 ya esta en swap
+[INFO] 10:02:49:870 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:02:49:870 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 4
+[DEBUG] 10:02:49:871 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 4
+[INFO] 10:02:49:871 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:49:871 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:49:872 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:22 en la direccion 1028 
+[DEBUG] 10:02:49:872 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:49:873 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:02:49:873 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:49:873 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:49:874 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:49:874 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:02:49:874 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:02:49:874 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 5  modificada 
+ 
+[INFO] 10:02:50:875 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 5 ya esta en swap
+[INFO] 10:02:51:875 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:02:51:875 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 20
+[DEBUG] 10:02:51:876 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 20
+[INFO] 10:02:51:876 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:51:876 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:51:877 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:32 en la direccion 5124 
+[DEBUG] 10:02:51:877 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:51:878 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:02:51:878 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:51:879 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:02:51:879 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:02:51:879 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:02:51:879 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:02:51:879 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 0  modificada 
+ 
+[INFO] 10:02:52:880 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:02:53:880 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:02:53:881 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 16
+[DEBUG] 10:02:53:881 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 16
+[INFO] 10:02:53:881 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:53:882 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:53:882 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:42 en la direccion 4100 
+[DEBUG] 10:02:53:882 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:53:883 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 5 
+ 
+[DEBUG] 10:02:53:883 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:53:884 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:02:53:884 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:02:53:884 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 1
+[INFO] 10:02:53:884 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 5 
+
+[INFO] 10:02:53:884 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 1  modificada 
+ 
+[INFO] 10:02:54:885 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:02:55:885 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 5 leida de swap
+[INFO] 10:02:55:885 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 5, nro_marco: 21
+[DEBUG] 10:02:55:886 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 21
+[INFO] 10:02:55:886 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:55:886 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:55:887 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:52 en la direccion 5380 
+[DEBUG] 10:02:55:887 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:57:897 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:02:57:897 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:57:898 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:57:898 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:57:898 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:02:57:898 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:02:57:898 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 2  modificada 
+ 
+[INFO] 10:02:58:899 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 2 ya esta en swap
+[INFO] 10:02:59:900 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:02:59:900 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 24
+[DEBUG] 10:02:59:900 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 24
+[INFO] 10:02:59:900 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:02:59:901 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:02:59:902 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:1 en la direccion 6144 
+[DEBUG] 10:02:59:902 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:02:59:903 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:02:59:903 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:02:59:904 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:02:59:904 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:02:59:905 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:02:59:905 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:02:59:905 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 3  modificada 
+ 
+[INFO] 10:03:00:905 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 3 ya esta en swap
+[INFO] 10:03:01:906 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:03:01:906 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 25
+[DEBUG] 10:03:01:906 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 25
+[INFO] 10:03:01:906 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:01:907 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:01:908 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:11 en la direccion 6400 
+[DEBUG] 10:03:01:908 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:01:908 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:03:01:909 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:01:909 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:01:909 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:01:910 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:03:01:910 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:03:01:910 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 4  modificada 
+ 
+[INFO] 10:03:02:911 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 4 ya esta en swap
+[INFO] 10:03:03:911 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:03:03:912 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 22
+[DEBUG] 10:03:03:912 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 22
+[INFO] 10:03:03:912 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:03:913 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:03:913 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:21 en la direccion 5632 
+[DEBUG] 10:03:03:913 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:03:914 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:03:03:914 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:03:915 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:03:915 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:03:916 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:03:03:916 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:03:03:916 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 5  modificada 
+ 
+[INFO] 10:03:04:916 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 5 ya esta en swap
+[INFO] 10:03:05:917 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:03:05:917 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 23
+[DEBUG] 10:03:05:917 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 23
+[INFO] 10:03:05:918 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:05:919 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:05:919 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:31 en la direccion 5888 
+[DEBUG] 10:03:05:919 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:05:920 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:03:05:920 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:05:920 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:03:05:921 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:03:05:921 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:03:05:921 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:03:05:921 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 0  modificada 
+ 
+[INFO] 10:03:06:922 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:03:07:922 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:03:07:923 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 26
+[DEBUG] 10:03:07:923 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 26
+[INFO] 10:03:07:923 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:07:924 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:07:924 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:41 en la direccion 6656 
+[DEBUG] 10:03:07:924 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:07:925 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 5 
+ 
+[DEBUG] 10:03:07:925 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:07:925 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:03:07:925 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:03:07:926 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 1
+[INFO] 10:03:07:926 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 5 
+
+[INFO] 10:03:07:926 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 1  modificada 
+ 
+[INFO] 10:03:08:927 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:03:09:928 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 5 leida de swap
+[INFO] 10:03:09:929 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 5, nro_marco: 27
+[DEBUG] 10:03:09:929 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 27
+[INFO] 10:03:09:929 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:09:930 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:09:930 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:51 en la direccion 6912 
+[DEBUG] 10:03:09:930 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:10:937 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:03:10:937 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:10:938 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:10:938 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:10:938 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:03:10:938 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:03:10:938 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 2  modificada 
+ 
+[INFO] 10:03:11:939 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 2 ya esta en swap
+[INFO] 10:03:12:939 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:03:12:939 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 28
+[DEBUG] 10:03:12:940 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 28
+[INFO] 10:03:12:940 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:12:941 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:12:941 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:2 en la direccion 7172 
+[DEBUG] 10:03:12:941 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:12:942 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:03:12:942 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:12:942 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:12:943 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:12:943 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:03:12:943 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:03:12:943 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 3  modificada 
+ 
+[INFO] 10:03:13:943 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 3 ya esta en swap
+[INFO] 10:03:14:944 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:03:14:944 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 29
+[DEBUG] 10:03:14:944 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 29
+[INFO] 10:03:14:944 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:14:945 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:14:946 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:12 en la direccion 7428 
+[DEBUG] 10:03:14:946 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:14:946 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:03:14:946 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:14:947 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:14:947 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:14:948 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:03:14:948 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:03:14:948 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 4  modificada 
+ 
+[INFO] 10:03:15:948 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 4 ya esta en swap
+[INFO] 10:03:16:949 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:03:16:949 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 30
+[DEBUG] 10:03:16:950 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 30
+[INFO] 10:03:16:950 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:16:951 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:16:951 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:22 en la direccion 7684 
+[DEBUG] 10:03:16:951 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:16:952 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:03:16:952 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:16:952 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:16:952 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:16:953 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:03:16:953 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:03:16:953 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 5  modificada 
+ 
+[INFO] 10:03:17:954 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 5 ya esta en swap
+[INFO] 10:03:18:954 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:03:18:954 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 31
+[DEBUG] 10:03:18:955 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 31
+[INFO] 10:03:18:955 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:18:955 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:18:956 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:32 en la direccion 7940 
+[DEBUG] 10:03:18:956 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:18:956 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:03:18:957 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:18:957 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:03:18:957 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:03:18:957 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:03:18:958 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:03:18:958 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 0  modificada 
+ 
+[INFO] 10:03:19:958 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:03:20:959 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:03:20:959 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 32
+[DEBUG] 10:03:20:959 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 32
+[INFO] 10:03:20:960 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:20:960 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:20:961 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:42 en la direccion 8196 
+[DEBUG] 10:03:20:961 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:20:962 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 5 
+ 
+[DEBUG] 10:03:20:962 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:20:962 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:03:20:962 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:03:20:963 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 1
+[INFO] 10:03:20:963 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 5 
+
+[INFO] 10:03:20:963 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 1  modificada 
+ 
+[INFO] 10:03:21:963 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:03:22:964 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 5 leida de swap
+[INFO] 10:03:22:964 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 5, nro_marco: 33
+[DEBUG] 10:03:22:965 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 33
+[INFO] 10:03:22:965 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:22:965 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:22:966 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:52 en la direccion 8452 
+[DEBUG] 10:03:22:966 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:23:972 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:03:23:972 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:23:972 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:23:972 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:23:973 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:03:23:973 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:03:23:973 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 2  modificada 
+ 
+[INFO] 10:03:24:973 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 2 ya esta en swap
+[INFO] 10:03:25:974 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:03:25:974 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 34
+[DEBUG] 10:03:25:974 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 34
+[INFO] 10:03:25:974 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:25:974 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:25:975 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:1 en la direccion 8704 
+[DEBUG] 10:03:25:975 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:25:975 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:03:25:976 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:25:976 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:25:976 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:25:976 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:03:25:976 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:03:25:976 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 3  modificada 
+ 
+[INFO] 10:03:26:977 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 3 ya esta en swap
+[INFO] 10:03:27:977 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:03:27:978 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 35
+[DEBUG] 10:03:27:978 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 35
+[INFO] 10:03:27:978 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:27:978 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:27:979 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:11 en la direccion 8960 
+[DEBUG] 10:03:27:979 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:27:979 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:03:27:979 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:27:980 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:27:980 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:27:981 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:03:27:981 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:03:27:981 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 4  modificada 
+ 
+[INFO] 10:03:28:982 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 4 ya esta en swap
+[INFO] 10:03:29:982 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:03:29:982 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 36
+[DEBUG] 10:03:29:982 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 36
+[INFO] 10:03:29:982 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:29:983 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:29:984 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:21 en la direccion 9216 
+[DEBUG] 10:03:29:984 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:29:985 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:03:29:985 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:29:985 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:29:985 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:29:986 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:03:29:986 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:03:29:986 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 5  modificada 
+ 
+[INFO] 10:03:30:987 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 5 ya esta en swap
+[INFO] 10:03:31:988 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:03:31:988 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 37
+[DEBUG] 10:03:31:988 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 37
+[INFO] 10:03:31:988 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:31:989 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:31:990 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:31 en la direccion 9472 
+[DEBUG] 10:03:31:990 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:31:990 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:03:31:990 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:31:991 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:03:31:991 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:03:31:992 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:03:31:992 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:03:31:992 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 0  modificada 
+ 
+[INFO] 10:03:32:992 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:03:33:993 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:03:33:993 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 38
+[DEBUG] 10:03:33:993 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 38
+[INFO] 10:03:33:993 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:33:994 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:33:995 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:41 en la direccion 9728 
+[DEBUG] 10:03:33:995 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:33:995 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 5 
+ 
+[DEBUG] 10:03:33:995 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:33:996 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:03:33:996 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:03:33:997 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 1
+[INFO] 10:03:33:997 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 5 
+
+[INFO] 10:03:33:997 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 1  modificada 
+ 
+[INFO] 10:03:34:997 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:03:35:998 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 5 leida de swap
+[INFO] 10:03:35:998 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 5, nro_marco: 39
+[DEBUG] 10:03:35:998 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 39
+[INFO] 10:03:35:998 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:35:999 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:36:000 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:51 en la direccion 9984 
+[DEBUG] 10:03:36:000 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:37:005 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 0 
+ 
+[DEBUG] 10:03:37:005 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:37:005 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:37:005 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:37:006 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 0
+[INFO] 10:03:37:006 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 0 
+
+[INFO] 10:03:37:006 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 2  modificada 
+ 
+[INFO] 10:03:38:007 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 2 ya esta en swap
+[INFO] 10:03:39:008 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 0 leida de swap
+[INFO] 10:03:39:008 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 0, nro_marco: 1
+[DEBUG] 10:03:39:008 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 1
+[INFO] 10:03:39:009 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:39:009 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:39:010 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:2 en la direccion 260 
+[DEBUG] 10:03:39:010 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:39:010 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 1 
+ 
+[DEBUG] 10:03:39:010 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:39:011 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:39:011 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:39:011 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 1
+[INFO] 10:03:39:012 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 1 
+
+[INFO] 10:03:39:012 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 3  modificada 
+ 
+[INFO] 10:03:40:012 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 3 ya esta en swap
+[INFO] 10:03:41:013 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 1 leida de swap
+[INFO] 10:03:41:013 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 1, nro_marco: 5
+[DEBUG] 10:03:41:013 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 5
+[INFO] 10:03:41:013 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:41:014 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:41:015 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:12 en la direccion 1284 
+[DEBUG] 10:03:41:015 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:41:015 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 2 
+ 
+[DEBUG] 10:03:41:016 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:41:016 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:41:016 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:41:017 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 2
+[INFO] 10:03:41:017 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 2 
+
+[INFO] 10:03:41:017 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 4  modificada 
+ 
+[INFO] 10:03:42:017 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 4 ya esta en swap
+[INFO] 10:03:43:018 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 2 leida de swap
+[INFO] 10:03:43:018 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 2, nro_marco: 6
+[DEBUG] 10:03:43:018 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 6
+[INFO] 10:03:43:018 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:43:019 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:43:020 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:22 en la direccion 1540 
+[DEBUG] 10:03:43:020 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:43:021 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 3 
+ 
+[DEBUG] 10:03:43:021 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:43:021 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 0 
+[INFO] 10:03:43:021 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 0, y entrada tabla nivel 1: 0 
+
+[INFO] 10:03:43:022 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 0, entrada de nivel 2 : 3
+[INFO] 10:03:43:022 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 3 
+
+[INFO] 10:03:43:022 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 5  modificada 
+ 
+[INFO] 10:03:44:022 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 5 ya esta en swap
+[INFO] 10:03:45:023 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 3 leida de swap
+[INFO] 10:03:45:023 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 3, nro_marco: 7
+[DEBUG] 10:03:45:023 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 7
+[INFO] 10:03:45:023 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:45:024 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:45:024 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:32 en la direccion 1796 
+[DEBUG] 10:03:45:024 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:45:025 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 4 
+ 
+[DEBUG] 10:03:45:025 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:45:026 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:03:45:026 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:03:45:026 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 0
+[INFO] 10:03:45:027 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 4 
+
+[INFO] 10:03:45:027 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 0  modificada 
+ 
+[INFO] 10:03:46:027 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 0 ya esta en swap
+[INFO] 10:03:47:028 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 4 leida de swap
+[INFO] 10:03:47:029 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 4, nro_marco: 8
+[DEBUG] 10:03:47:029 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 8
+[INFO] 10:03:47:029 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:47:030 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:47:030 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:42 en la direccion 2052 
+[DEBUG] 10:03:47:030 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:47:031 LOG-GLOBAL-MEMORIA/(5251:5252): 
+ El proceso 3 quire un numero de marco para la pagina 5 
+ 
+[DEBUG] 10:03:47:031 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Respuesta de direccion valida enviada a memoria---
+
+[INFO] 10:03:47:032 LOG-GLOBAL-MEMORIA/(5251:5252): CPU envio la tabla de nivel 1: 2 y la entrada: 1 
+[INFO] 10:03:47:032 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de tabla de nivel 2: 1, y entrada tabla nivel 1: 1 
+
+[INFO] 10:03:47:032 LOG-GLOBAL-MEMORIA/(5251:5252): Recibido: id de tabla de nivel 2: 1, entrada de nivel 2 : 1
+[INFO] 10:03:47:032 LOG-GLOBAL-MEMORIA/(5251:5252): Se accedio a la pagina 5 
+
+[INFO] 10:03:47:032 LOG-GLOBAL-MEMORIA/(5251:5252): Se swappea la pagina: 1  modificada 
+ 
+[INFO] 10:03:48:032 LOG-GLOBAL-MEMORIA/(5251:5252): La pagina 1 ya esta en swap
+[INFO] 10:03:49:033 LOG-GLOBAL-MEMORIA/(5251:5252): Pagina: 5 leida de swap
+[INFO] 10:03:49:033 LOG-GLOBAL-MEMORIA/(5251:5252): nro_pagina: 5, nro_marco: 10
+[DEBUG] 10:03:49:033 LOG-GLOBAL-MEMORIA/(5251:5252): Nro de marco: 10
+[INFO] 10:03:49:033 LOG-GLOBAL-MEMORIA/(5251:5252): Marco enviado a CPU
+
+[DEBUG] 10:03:49:034 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO MARCO:CPU---
+
+[DEBUG] 10:03:49:034 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso:3 leyo el valor:52 en la direccion 2564 
+[DEBUG] 10:03:49:035 LOG-GLOBAL-MEMORIA/(5251:5252): 
+--- Se atendio el pedido correctamente de PEDIDO LECTURA:CPU---
+
+[DEBUG] 10:03:50:038 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 3 ha sido enviado para finalizar
+[INFO] 10:03:51:038 LOG-GLOBAL-MEMORIA/(5251:5252): Se elimino el archivo: /home/utnso/swap/3.swap /n
+[INFO] 10:03:51:039 LOG-GLOBAL-MEMORIA/(5251:5252): Respuesta de finalizado de proceso enviada
+[DEBUG] 10:03:52:246 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:52:246 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:52:549 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:52:549 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:52:852 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:52:852 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:53:154 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:53:154 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:53:461 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:53:461 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:53:765 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:53:765 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:54:068 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:54:068 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:54:372 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:54:372 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:54:675 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:54:675 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:54:978 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:54:978 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:55:281 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:55:281 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:55:584 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:55:584 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:55:888 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:55:888 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:56:191 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:56:191 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:56:494 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:56:495 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:56:798 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:56:798 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:57:101 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:57:101 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:57:404 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:57:404 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:57:707 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:57:707 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:58:010 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:58:010 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:58:314 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para suspender
+[DEBUG] 10:03:58:314 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido suspendido
+[DEBUG] 10:03:58:324 LOG-GLOBAL-MEMORIA/(5251:5252): El proceso 4 ha sido enviado para finalizar
+[INFO] 10:03:59:325 LOG-GLOBAL-MEMORIA/(5251:5252): Se elimino el archivo: /home/utnso/swap/4.swap /n
+[INFO] 10:03:59:325 LOG-GLOBAL-MEMORIA/(5251:5252): Respuesta de finalizado de proceso enviada
