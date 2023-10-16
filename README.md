@@ -16,6 +16,7 @@ El objetivo del trabajo práctico consiste en desarrollar una solución que perm
 Para el desarrollo del mismo se decidió la creación de un sistema bajo la metodología Iterativa Incremental donde se solicitarán en una primera instancia la implementación de ciertos módulos para luego poder realizar una integración total con los restantes
 
 Módulos:
+
 ![image](https://github.com/antobevi/tp-2022-1c-SO-MargeCreoQueOdioOperativos/assets/48884370/79d5f21b-5798-4329-84ce-f3cd308c92c6)
 
 El trabajo práctico consiste de 4 módulos: **Consola** (N instancias), **Kernel**, **CPU** y **Memoria** (1 instancia cada uno).
