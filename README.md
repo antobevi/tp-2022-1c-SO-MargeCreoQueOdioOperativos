@@ -12,6 +12,7 @@ Módulos y responsables:
 * **Memoria y Swap** (Matias Balboa)
 
 Objetivo del Trabajo Práctico:
+
 El objetivo del trabajo práctico consiste en desarrollar una solución que permita la simulación de un sistema distribuido, donde se tendrán que planificar procesos, resolver peticiones al sistema y administrar de manera adecuada una memoria bajo el esquema de paginación jerárquica de dos niveles.
 Para el desarrollo del mismo se decidió la creación de un sistema bajo la metodología Iterativa Incremental donde se solicitarán en una primera instancia la implementación de ciertos módulos para luego poder realizar una integración total con los restantes
 
