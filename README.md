@@ -3,12 +3,12 @@
 * Antonella Bevilacqua
 * Matias Balboa
 * Matias Otermín
-* Nicolás
+* Nicolás Rosa
 
 **Módulos y responsables**:
 * **Consola** (Matias Otermín)
 * **Kernel** (Antonella Bevilacqua)
-* **CPU** (Matias Otermín y Nicolás)
+* **CPU** (Matias Otermín y Nicolás Rosa)
 * **Memoria y Swap** (Matias Balboa)
 
 **Objetivo del Trabajo Práctico**:
